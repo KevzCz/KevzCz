@@ -9,7 +9,7 @@ I'm a university student and soon-to-be job seeker, passionate about backend dev
 
 ### 🛠 Projects
 
-#### Java / Minecraft Mods
+#### Java / Minecraft Mods (Noteable ones)
 - [Mob Journal](https://github.com/KevzCz/Mob-Journal) – A mod that lets players document mobs they encounter.
 - [Exclusive Item](https://github.com/KevzCz/ExclusiveItem) – Controls item usage with tags and rules.
 - [Show Me Your Build](https://github.com/KevzCz/ShowMeYourBuild) – Inspect another player’s gear/stats in real-time.
